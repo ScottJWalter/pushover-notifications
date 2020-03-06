@@ -11,7 +11,7 @@ License: GPLv2
 
 define( 'CKPN_CORE_TEXT_DOMAIN', 'ckpn' );
 define( 'CKPN_PATH', plugin_dir_path( __FILE__ ) );
-define( 'CKPN_VERSION', '1.9.4' );
+define( 'CKPN_VERSION', '1.9.4-sjwc' );
 define( 'CKPN_FILE', plugin_basename( __FILE__ ) );
 define( 'CKPN_URL', plugins_url( 'pushover-notifications', 'pushover-notifications.php' ) );
 
